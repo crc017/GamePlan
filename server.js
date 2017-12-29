@@ -7,7 +7,7 @@ var cookieparser = require("cookie-parser");
 var db = require("./models");
 
 var app = express();
-var PORT = process.env.PORT || 3002;
+var PORT = process.env.PORT || 3000;
 
 // Serve static content for the app from the "public" directory in the application directory.
 

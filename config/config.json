@@ -1,9 +1,16 @@
 {
-  "development": {
+  "null": {
     "username": "root",
     "password": "root",
     "database": "Game_plan_db",
     "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "development": {
+    "username": "zwh3eyxjxfv5aw12",
+    "password": "p0q7pbo2fsump2cg",
+    "database": "dmrj1evgq0uxc4by",
+    "host": "d6ybckq58s9ru745.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
@@ -16,7 +23,7 @@
   "production": {
     "username": "zwh3eyxjxfv5aw12",
     "password": "p0q7pbo2fsump2cg",
-    "database": "Game_plan_db",
+    "database": "dmrj1evgq0uxc4by",
     "host": "d6ybckq58s9ru745.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
